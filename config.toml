@@ -1,6 +1,7 @@
 baseURL = "https://hazmole.github.io/quest-zh-release/"
 title = "Quest 奇幻探索物語 - 中文規則站"
 theme = "hugo-geekdoc"
+publishDir = "./docs/"
 
 pluralizeListTitles = false
 defaultContentLanguage = "zh-tw"
