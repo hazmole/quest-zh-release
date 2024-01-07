@@ -1,7 +1,7 @@
 ---
 weight: 1
 bookFlatSection: false
-title: "關於遊戲"
+title: "第一章：關於遊戲"
 ---
 
 首先，我們會教你如何遊玩這個遊戲。
@@ -19,4 +19,3 @@ title: "關於遊戲"
 - 道具欄
 - 基本原則
 {{< /columns >}}
-
