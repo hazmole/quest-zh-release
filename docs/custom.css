@@ -100,8 +100,41 @@
   padding: .5rem;
   margin-top: .2rem;
 }
+
 :root .char-profile-block {
   background:var(--code-accent-color);
   font-weight:bolder;
   padding: .5rem;
+}
+
+:root .ideal-card,
+:root .flaw-card {
+  width: 265px;
+  padding: 1rem;
+}
+:root .ideal-card .quote,
+:root .flaw-card .quote {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 3rem;
+  font-weight: bold;
+  font-style: italic;
+  text-indent: -1em;
+  padding-left: 1em;
+}
+:root .ideal-card .quote { color: #4b7db3; }
+:root .flaw-card .quote {  color: #b13c3c; }
+
+:root .ideal-card .title,
+:root .flaw-card .title {
+  font-weight: bold;
+  text-align: center;
+  padding: .5rem 0;
+  font-size: 1.1em;
+}
+:root .ideal-card .desc,
+:root .flaw-card .desc {
+  height: 4rem;
+  font-size: 15px;
 }
