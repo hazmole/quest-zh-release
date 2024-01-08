@@ -1,11 +1,102 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>導引者章節 on Quest 奇幻探索物語 - 中文規則站</title>
+    <title>第四章：導引者章節 on Quest 奇幻探索物語 - 中文規則站</title>
     <link>https://hazmole.github.io/quest-zh-release/guide/</link>
-    <description>Recent content in 導引者章節 on Quest 奇幻探索物語 - 中文規則站</description>
+    <description>Recent content in 第四章：導引者章節 on Quest 奇幻探索物語 - 中文規則站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <atom:link href="https://hazmole.github.io/quest-zh-release/guide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>玩家安全</title>
+      <link>https://hazmole.github.io/quest-zh-release/guide/player-safety/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/guide/player-safety/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>構築一個世界</title>
+      <link>https://hazmole.github.io/quest-zh-release/guide/build-a-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/guide/build-a-world/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>運行遊戲</title>
+      <link>https://hazmole.github.io/quest-zh-release/guide/run-the-game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/guide/run-the-game/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>設置場景</title>
+      <link>https://hazmole.github.io/quest-zh-release/guide/set-scenes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/guide/set-scenes/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>線索</title>
+      <link>https://hazmole.github.io/quest-zh-release/guide/clues/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/guide/clues/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>關於擲骰</title>
+      <link>https://hazmole.github.io/quest-zh-release/guide/rolling-the-die/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/guide/rolling-the-die/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>挑戰</title>
+      <link>https://hazmole.github.io/quest-zh-release/guide/challenges/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/guide/challenges/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>行事結果</title>
+      <link>https://hazmole.github.io/quest-zh-release/guide/consequences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/guide/consequences/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>非玩家角色</title>
+      <link>https://hazmole.github.io/quest-zh-release/guide/non-player-characters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/guide/non-player-characters/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>戰鬥與回合</title>
+      <link>https://hazmole.github.io/quest-zh-release/guide/combat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/guide/combat/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>第一次聚會</title>
+      <link>https://hazmole.github.io/quest-zh-release/guide/the-first-play/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/guide/the-first-play/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>進階規則</title>
+      <link>https://hazmole.github.io/quest-zh-release/guide/advanced-rules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/guide/advanced-rules/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>導引者</title>
+      <link>https://hazmole.github.io/quest-zh-release/guide/the-guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/guide/the-guide/</guid>
+      <description> empty </description>
+    </item>
   </channel>
 </rss>

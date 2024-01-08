@@ -8,25 +8,144 @@
     <language>zh-tw</language>
     <atom:link href="https://hazmole.github.io/quest-zh-release/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>角色簡介</title>
+      <link>https://hazmole.github.io/quest-zh-release/character/charater-profile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/character/charater-profile/</guid>
+      <description>介紹你自己 這一頁被稱為你的「角色簡介紙」。這個章節會提供你一些想法，幫助你填寫簡介紙上的空格，創造出獨特且有趣的角色。&#xA;你可以先從決定角色的名字開始，什麼都可以！選擇你的代詞稱謂是什麼，讓別人知道該怎麼稱呼你。一些範例像是：他們／她／他。接下來決定你的年紀（壽命最多３００歲）以及你的身高（３到８呎之間）。&#xA;接著，按照這個章節中１～８的步驟來完成創建角色的過程。你可以自由發揮你的創意來填寫這些空格，而沒有義務一定要使用這本書提供的範例。試著創造出一個你覺得好玩且有趣的角色吧。</description>
+    </item>
+    <item>
+      <title>玩家安全</title>
+      <link>https://hazmole.github.io/quest-zh-release/guide/player-safety/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/guide/player-safety/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>非常見</title>
+      <link>https://hazmole.github.io/quest-zh-release/treasure/uncommon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/treasure/uncommon/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>特殊能力如何運作</title>
+      <link>https://hazmole.github.io/quest-zh-release/abilities/how-ability-work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/abilities/how-ability-work/</guid>
+      <description> 選擇你邁向巔峰的道路 你是否曾閉上雙眼，希望某些神奇的魔法奇蹟能夠化為現實？&#xA;也許是與動物交談、長出翅膀在天際翱翔、隱形消失、或甚至穿越時間和空間？&#xA;《奇幻探索物語》是個充滿魔法的地方，在這裡，任何事都有可能發生。&#xA;在這個章節，你將看到所有讓每個角色定位之所以獨一無二的特殊能力。接下來的幾頁，你會學到關於特殊能力的重要規則與關鍵字說明，用來解釋這些特殊能力該如何運作。&#xA;選擇特殊能力 學習路線 傳奇能力 冒險點 間諜的神奇工具 「在遊戲桌上」 「擲骰」 重要關鍵字 </description>
+    </item>
+    <item>
+      <title>1.選擇角色定位</title>
+      <link>https://hazmole.github.io/quest-zh-release/character/choose-a-role/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/character/choose-a-role/</guid>
+      <description>你的角色定位會給你一組獨特的特殊能力，同時也是你角色身分中很重要的一部分。這裡我們只簡短地概述《奇幻探索物語》中的八個角色定位；你可以在「第三章：特殊能力目錄」看到它們特殊能力的細節。&#xA;戰士 戰士肩負在近距離直面挑戰的任務。他們是武器大師和武術高手，依靠身體的力量戰勝敵人。&#xA;祈喚衛士 祈喚衛士是依靠信念之力作戰的戰法師。他們能喚出護盾，在緊要關頭讓盟友重獲活力，並用神聖光輝擊潰敵人。&#xA;遊俠 遊俠是化外之人、獵人、也是技巧熟練的領航員，在文明都市的邊陲活躍。他們飼養忠實的寵物，並與野獸有著特殊的羈絆。&#xA;綠巫 綠巫引導他們與大自然之間的連結，藉此來操控元素、與動物交流、甚至讓自己化為野獸。&#xA;醫生 醫生是魔法科學家，能擺弄生與死的力量。他們能夠逆轉（或加強）傷害、疾病、和腐敗的影響。&#xA;間諜 間諜是狡猾的特務，擅長隱匿和花招詭計。他們是刺客大師，也精通運用魔法裝置、煉金藥劑、陷阱、偽裝、造假技巧。&#xA;魔術師 魔術師擅長變出幻影和精神操縱，從魔術戲法到精緻複雜的大騙局，他們是高超的幻象大師，甚至有能力扭曲人的心靈。&#xA;法師 法師是力量強大的施法者，能夠驅使各式各樣的魔法能力。在這力量的巔峰，他們甚至能夠穿越到其他世界，並超越他們凡人之軀的限制。</description>
+    </item>
+    <item>
+      <title>宇宙諸界</title>
+      <link>https://hazmole.github.io/quest-zh-release/abilities/the-omniverse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/abilities/the-omniverse/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>珍稀</title>
+      <link>https://hazmole.github.io/quest-zh-release/treasure/rare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/treasure/rare/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>構築一個世界</title>
+      <link>https://hazmole.github.io/quest-zh-release/guide/build-a-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/guide/build-a-world/</guid>
+      <description> empty </description>
+    </item>
+    <item>
       <title>關於遊戲</title>
       <link>https://hazmole.github.io/quest-zh-release/game/about-game/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hazmole.github.io/quest-zh-release/game/about-game/</guid>
-      <description>&#xD;你是一名冒險者，在這充滿魔法和危險的世界之中探索&#xD;《奇幻探索物語》是個能創造出奇幻故事的遊戲。藉著遊戲規則的幫助，你能更容易地想像出發生了什麼事。&#xA;我們會協助你創造出一個獨一無二的角色。接著，你會描述這個角色做了什麼。你可以在讓他去追求寶藏、榮譽、公義、復仇、或任何你想要的事物。這裡有著無限的可能性！&#xA;你可以在遊玩《奇幻探索物語》的過程中，在一次聚會中創造出一個短短的故事、或者經歷耗時數月或數年的時間後完成一場史詩壯闊的大冒險。你不會在這個遊戲中輸掉；只要你們共同講述了一個難忘的故事並度過了快樂的時光，那麼所有人就都是贏家。&#xA;玩家&#xD;《奇幻探索物語》最適合的玩家人數為四到六人。&#xA;首先，選擇其中一位玩家做為「導引者」。導引者會擔任整個故事的講述者。&#xA;其他所有人會需要創建故事中的其中一名主要角色，然後扮演他們創建的這個角色。這些玩家角色彼此是盟友，並待在同一個冒險團隊之中，稱為「隊伍」。&#xA;導引者負責著隊伍所身處的這個世界，就像電影的導演一樣。他會想像隊伍成員們遭遇到的人們、地點、和各樣事物。然後，透過描述來幫助所有人在腦海中構築這個遊戲中的世界。&#xA;導引者同時會扮演故事中的所有其他角色，例如村民或怪物。我們把他們稱作「非玩家角色」，或「NPC」。&#xA;最後，導引者會負責為隊伍採取的各種行動給出相應的結果。這意味著，當玩家觸發了陷阱、或把某個 NPC 惹火時，他會需要想像並決定接下來會發生什麼事。&#xA;雖然導引者和隊伍的職責並不相同，但他們之間是平等的──他們都是一起說故事的夥伴。這個章節的內容是寫給隊伍中的玩家，但也包含了許多對導引者有用的資訊。&#xA;遊玩需要的事物&#xD;《奇幻探索物語》最適合親身面對面遊玩。試著找一個不會受到干擾的場所吧！&#xA;如果你們是透過網路線上遊玩，確定你有夠好的視訊鏡頭和麥克風，讓你的朋友們能更清楚地看見和聽見你。 每個玩家需要：&#xA;這本規則書。 幾個小時的空閒時間。 一個聚會的場所。 一顆２０面骰。 一些能做筆記的東西。 一張角色簡介紙（p.21）。 一張角色紀錄紙（p.17）。 一顆開放的心。 有這些的話會更好：&#xA;一個安靜的房間。 零嘴和飲料。 一些背景音樂。 </description>
+      <description> 你是一名冒險者，在這充滿魔法和危險的世界之中探索 《奇幻探索物語》是個能創造出奇幻故事的遊戲。藉著遊戲規則的幫助，你能更容易地想像出發生了什麼事。&#xA;我們會協助你創造出一個獨一無二的角色。接著，你會描述這個角色做了什麼。你可以在讓他去追求寶藏、榮譽、公義、復仇、或任何你想要的事物。這裡有著無限的可能性！&#xA;你可以在遊玩《奇幻探索物語》的過程中，在一次聚會中創造出一個短短的故事、或者經歷耗時數月或數年的時間後完成一場史詩壯闊的大冒險。你不會在這個遊戲中輸掉；只要你們共同講述了一個難忘的故事並度過了快樂的時光，那麼所有人就都是贏家。&#xA;玩家 《奇幻探索物語》最適合的玩家人數為四到六人。&#xA;首先，選擇其中一位玩家做為「導引者」。導引者會擔任整個故事的講述者。&#xA;其他所有人會需要創建故事中的其中一名主要角色，然後扮演他們創建的這個角色。這些玩家角色彼此是盟友，並待在同一個冒險團隊之中，稱為「隊伍」。&#xA;導引者負責著隊伍所身處的這個世界，就像電影的導演一樣。他會想像隊伍成員們遭遇到的人們、地點、和各樣事物。然後，透過描述來幫助所有人在腦海中構築這個遊戲中的世界。&#xA;導引者同時會扮演故事中的所有其他角色，例如村民或怪物。我們把他們稱作「非玩家角色」，或「NPC」。&#xA;最後，導引者會負責為隊伍採取的各種行動給出相應的結果。這意味著，當玩家觸發了陷阱、或把某個 NPC 惹火時，他會需要想像並決定接下來會發生什麼事。&#xA;雖然導引者和隊伍的職責並不相同，但他們之間是平等的──他們都是一起說故事的夥伴。這個章節的內容是寫給隊伍中的玩家，但也包含了許多對導引者有用的資訊。&#xA;遊玩需要的事物 《奇幻探索物語》最適合親身面對面遊玩。試著找一個不會受到干擾的場所吧！&#xA;如果你們是透過網路線上遊玩，確定你有夠好的視訊鏡頭和麥克風，讓你的朋友們能更清楚地看見和聽見你。 每個玩家需要：&#xA;這本規則書。 幾個小時的空閒時間。 一個聚會的場所。 一顆２０面骰。 一些能做筆記的東西。 一張角色簡介紙（p.21）。 一張角色紀錄紙（p.17）。 一顆開放的心。 有這些的話會更好：&#xA;一個安靜的房間。 零嘴和飲料。 一些背景音樂。 </description>
+    </item>
+    <item>
+      <title>2.亮相登場</title>
+      <link>https://hazmole.github.io/quest-zh-release/character/enter-the-scene/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/character/enter-the-scene/</guid>
+      <description>你想要為你的角色添加多少細節都可以，但從幾個與眾不同的特徵開始著手會比較容易。想像當你走進房間，人們會最先注意到什麼。 做為起點，想像這個世界充滿了像人類的居民，他們需要的東西跟我們沒有兩樣：食物、安全、愛、和娛樂。你選擇的特徵可能暗示著你的角色有著獨特的血脈或種族，但這並不會讓你因此和其他人產生隔閡。我們假設這個世界的人們在家庭、工作、和社會架構上都能夠彼此相容。&#xA;你可以任意從列表中挑選、或是自己創造你想要的項目。唯一的規則是，你選來描述你角色的特徵並不會讓他因此獲得任何特殊能力。&#xA;當人們見到我時，他們會最先注意到我的 _________ ，_________，和 _________。&#xD;身體 鱗片 老舊的傷疤 虹彩色的肌膚 威猛的肌肉 高聳的體格 帶斑點的膚色 大大的啤酒肚 滿頭的觸鬚 豐腴的身體曲線 修長的四肢 粗糙不平的體表 婀娜的體態 時髦的髮型 結實魁梧的身材 久經風霜的身體 退化的尾巴 帶蹼的鰭 毛茸茸的獸皮 面容 憔悴消瘦的臉 尖銳的牙齒 令人生厭的雙頰 大大尖尖的耳朵 退化的觸角 長度及膝的鬍子 壓倒魅力的笑容 被風吹亂的臉 修剪整齊的毛髮 長有隆起物的前額 三角形的腦袋 老朽的面容 浪漫的雙眼 嚴肅的下顎 多疑的眼神 燦爛的笑容 熊熊燃燒的目光 濃厚的眉毛 氛圍 狹長的影子 愛睏想睡的氛圍 閃閃發光的眼神 永遠的怪樣鬼臉 迸發四射的熱情能量 神秘的氣氛 溫柔的性格 中性的氛圍 眺望遠方的空洞凝視 深受束縛的感覺 憂鬱多慮的態度 友善的舉止 不著邊際的視線 優雅的姿勢 蠱惑人心的微笑 沙啞的笑聲 完美無缺的風度 暴躁的脾氣 </description>
     </item>
     <item>
       <title>如何遊玩</title>
       <link>https://hazmole.github.io/quest-zh-release/game/how-to-play/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hazmole.github.io/quest-zh-release/game/how-to-play/</guid>
-      <description>&#xD;說出你要做的事，然後看看會發生什麼事&#xD;你將會藉著和你的朋友彼此對話的方式來進行這個遊戲。&#xA;它一開始會像是這樣：&#xA;首先，導引者描述你們所在的場景，協助你們想像這個世界的模樣，以及附近發生的事情。&#xA;接下來，你說出你的角色要做的事情。你可以做任何你想做的事，像是和其他角色說話、採取攻擊、或使用你的其中一項特殊能力。&#xA;接著，導引者會想像接下來會發生什麼事，並再次描述這個場景。&#xA;導引者：&#xD;「隨著大地震動，你聽見樹叢間傳來沙沙聲，鳥群從樹冠紛紛跳出，倉皇逃離了森林。 突然間，一隻壯碩的巨熊從樹林間衝出，並朝著你襲擊了過來！ 你打算怎麼做？」&#xD;冒險者：&#xD;「我拿出我的魔法槌子並攻擊。這頭毛絨絨的野獸選錯日子來惹我啦！」&#xD;導引者：&#xD;「好，擲骰吧。 讚喔！你骰出了成功。你在攻擊這頭熊的時候畫面上看起來會是什麼樣子？」&#xD;</description>
+      <description> 說出你要做的事，然後看看會發生什麼事 你將會藉著和你的朋友彼此對話的方式來進行這個遊戲。&#xA;它一開始會像是這樣：&#xA;首先，導引者描述你們所在的場景，協助你們想像這個世界的模樣，以及附近發生的事情。&#xA;接下來，你說出你的角色要做的事情。你可以做任何你想做的事，像是和其他角色說話、採取攻擊、或使用你的其中一項特殊能力。&#xA;接著，導引者會想像接下來會發生什麼事，並再次描述這個場景。&#xA;導引者：&#xD;「隨著大地震動，你聽見樹叢間傳來沙沙聲，鳥群從樹冠紛紛跳出，倉皇逃離了森林。 突然間，一隻壯碩的巨熊從樹林間衝出，並朝著你襲擊了過來！ 你打算怎麼做？」&#xD;冒險者：&#xD;「我拿出我的魔法槌子並攻擊。這頭毛絨絨的野獸選錯日子來惹我啦！」&#xD;導引者：&#xD;「好，擲骰吧。 讚喔！你骰出了成功。你在攻擊這頭熊的時候畫面上看起來會是什麼樣子？」&#xD;</description>
+    </item>
+    <item>
+      <title>傳奇</title>
+      <link>https://hazmole.github.io/quest-zh-release/treasure/legendary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/treasure/legendary/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>運行遊戲</title>
+      <link>https://hazmole.github.io/quest-zh-release/guide/run-the-game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/guide/run-the-game/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>戰士</title>
+      <link>https://hazmole.github.io/quest-zh-release/abilities/the-fighter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/abilities/the-fighter/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>3.展現風采</title>
+      <link>https://hazmole.github.io/quest-zh-release/character/show-your-style/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/character/show-your-style/</guid>
+      <description>決定你是如何向這個世界展示你自己的。選擇你平時的衣著，想像你的角色在行走移動時看起來是什麼樣子。 只要幾個特徵，大家就能更容易想像出你的樣子，但如果你想要的話，也可以描述更多的細節。&#xA;我穿著 _________ , _________ ，&#xD;蝕刻雕花的皮甲 隨風翻騰的連身衣裝 緊緻合身的束腰外衣 宗教法衣 有裂痕的鍊甲 藏在髮間的符文 舞動的披風 歷經風霜的破布衣 多層次的連衣洋裝 保暖的連帽斗篷 貓頭鷹別針 魅力迷人的項鍊 破舊的頭套 古董眼鏡 花紋頭巾 絲綢製的眼罩 露指手套 縫有內襯的夾克 硬質袖口 羽毛帽 塑身馬甲 時髦的帽子 青銅護胸甲 過大的眼鏡 自製的護身符 錘壓紋耳環 裝飾花俏的腰帶 光澤閃亮的鎖子甲 動物造型的胸針 黑曜石手鐲 信仰的象徵物 髒污的戒指 樸素的束腰外衣 且行走時看起來 ___________________________ 。&#xD;不疾不徐 踩著輕鬆的滑步 步伐凌亂憤怒 踏著充滿自信的腳步 舉步維艱 步調穩健 雙手擺動地大開大闔 腳步輕快，春風得意 帶著強烈的目標 抓不到空間感 踩著旋律 步履蹣跚 吹著歡快的口哨 帶著堅毅的專注 大搖大擺的 戒慎擔憂 腳步沉重 無所畏懼 </description>
+    </item>
+    <item>
+      <title>至尊</title>
+      <link>https://hazmole.github.io/quest-zh-release/treasure/supreme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/treasure/supreme/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>祈喚衛士</title>
+      <link>https://hazmole.github.io/quest-zh-release/abilities/the-invoker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/abilities/the-invoker/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>設置場景</title>
+      <link>https://hazmole.github.io/quest-zh-release/guide/set-scenes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/guide/set-scenes/</guid>
+      <description> empty </description>
     </item>
     <item>
       <title>場景</title>
       <link>https://hazmole.github.io/quest-zh-release/game/scenes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hazmole.github.io/quest-zh-release/game/scenes/</guid>
-      <description>探索每個場景，追尋線索&#xD;你可能會發現自己身處在熙攘吵雜的市集、一座漂浮在雲層之間的城堡、或漆黑幽暗的地牢。利用你在每個場景感知到的一切來協助你決定接下來該怎麼做。&#xA;如果地面遍布滑溜溜的油水，你可能會因此滑倒。如果那裏有一隻比你大三倍的怪物，那牠有可能會把你抓起來。如果天空烏雲密布，那或許很快會有一場暴風雨。&#xA;永遠記得把導引者給你的場景細節納入考量，並在有需要的時候詢問更多。你可以先從你能透過感官察覺到的事物開始詢問，像是「這裡的味道聞起來怎麼樣？」&#xA;或者你可以問一些更具體的問題，像是「我有看到任何我能點燃的東西嗎？」&#xA;該如何做事？&#xD;在遊戲中做事的方式非常簡單：只要說出你的角色做了什麼就行。如果你想開啟一扇門，就直接說你把門打開。如果你想要跟其他角色說話，就直接開口跟他們交談。看到了一隻乖狗狗？直接說「我要摸摸那隻狗。」就好了！&#xA;你可以選擇以角色的旁白或演員的身分說話來進行角色扮演。&#xA;第三人稱敘述. 你能夠以旁白的身分敘述你的角色，告訴大家你的角色做了什麼事。你可以描述他是如何穿過房間、或者他在回應某件事時的表情看起來是什麼樣子。或者，你也可以描述他對某件事的感覺和看法。&#xA;第一人稱表演. 當你以你角色的身分說話時，你就如同電影裡的演員一樣在扮演這個角色，說出他的台詞。你可以用這種方式跟你的同伴、或遊戲中遭遇到的任何其他生物談話。&#xA;當你交替混用敘述和表演這兩種扮演方式，你的角色將會變得更有趣且可信。融入角色的扮演方式同時也能幫助其他玩家沉浸在這個遊戲中的世界。&#xA;我們知道：如果你剛接觸這類型的遊戲，那麼演出角色的部分可能會讓你覺得有些尷尬。如果你對於為角色的台詞配音感到不太自在，那也沒關係──這裡不是好萊塢，你也不是在參加角色試鏡。你不需要想出什麼風騷花俏的聲調或語氣、也不需要穿上戲服。（當然，如果你想要的話也可以這麼做。）&#xA;所有人在一開始都會覺得有點尷尬，但最終，你會看你的角色建立一股默契，讓一切顯得自然而然。&#xA;要做什麼？&#xD;這個遊戲是關於想像奇幻世界中的場景情境，並決定你的角色會如何做出回應。&#xA;你在《奇幻探索物語》中可以做任何事，但你會特別常去做以下這些事情：&#xA;透過向導引者提出問題來調查當前場景。 描述你角色的感受，或說出他正在想什麼。 跟你的隊伍成員、或其他你遇到的 NPC 交談。 使用武器對你的敵人進行攻擊。 使用你的特殊能力。 當你在創建角色時，你會決定他的人格特質，像是他相信什麼、他的缺點、以及他想要達成什麼目標。善加利用這些特質來幫助你在每個場景決定你的角色要做什麼。&#xA;把你的角色當成一個真實存在的人物。留神注意他們周遭發生的事，並想想這個世界會怎麼影響他們。&#xA;花點時間跟你的同伴們交談。表達你的情感。質疑你的盟友。說一兩個笑話或故事。當你投入時間去探索每個場景的可能性，並用你角色的聲音去說話時，你會發現遊戲中的那些激情時刻對你來說將變得更有意義。&#xA;然而，不用覺得自己需要在每個情境都做出「正確」的行動而感到壓力。只要做出你覺得角色會做的行動，即使這會帶來不好的後果，故事也會變得更歡樂和有趣。</description>
+      <description>探索每個場景，追尋線索 你可能會發現自己身處在熙攘吵雜的市集、一座漂浮在雲層之間的城堡、或漆黑幽暗的地牢。利用你在每個場景感知到的一切來協助你決定接下來該怎麼做。&#xA;如果地面遍布滑溜溜的油水，你可能會因此滑倒。如果那裏有一隻比你大三倍的怪物，那牠有可能會把你抓起來。如果天空烏雲密布，那或許很快會有一場暴風雨。&#xA;永遠記得把導引者給你的場景細節納入考量，並在有需要的時候詢問更多。你可以先從你能透過感官察覺到的事物開始詢問，像是「這裡的味道聞起來怎麼樣？」&#xA;或者你可以問一些更具體的問題，像是「我有看到任何我能點燃的東西嗎？」&#xA;該如何做事？ 在遊戲中做事的方式非常簡單：只要說出你的角色做了什麼就行。如果你想開啟一扇門，就直接說你把門打開。如果你想要跟其他角色說話，就直接開口跟他們交談。看到了一隻乖狗狗？直接說「我要摸摸那隻狗。」就好了！&#xA;你可以選擇以角色的旁白或演員的身分說話來進行角色扮演。&#xA;第三人稱敘述. 你能夠以旁白的身分敘述你的角色，告訴大家你的角色做了什麼事。你可以描述他是如何穿過房間、或者他在回應某件事時的表情看起來是什麼樣子。或者，你也可以描述他對某件事的感覺和看法。&#xA;第一人稱表演. 當你以你角色的身分說話時，你就如同電影裡的演員一樣在扮演這個角色，說出他的台詞。你可以用這種方式跟你的同伴、或遊戲中遭遇到的任何其他生物談話。&#xA;當你交替混用敘述和表演這兩種扮演方式，你的角色將會變得更有趣且可信。融入角色的扮演方式同時也能幫助其他玩家沉浸在這個遊戲中的世界。&#xA;我們知道：如果你剛接觸這類型的遊戲，那麼演出角色的部分可能會讓你覺得有些尷尬。如果你對於為角色的台詞配音感到不太自在，那也沒關係──這裡不是好萊塢，你也不是在參加角色試鏡。你不需要想出什麼風騷花俏的聲調或語氣、也不需要穿上戲服。（當然，如果你想要的話也可以這麼做。）&#xA;所有人在一開始都會覺得有點尷尬，但最終，你會看你的角色建立一股默契，讓一切顯得自然而然。&#xA;要做什麼？ 這個遊戲是關於想像奇幻世界中的場景情境，並決定你的角色會如何做出回應。&#xA;你在《奇幻探索物語》中可以做任何事，但你會特別常去做以下這些事情：&#xA;透過向導引者提出問題來調查當前場景。 描述你角色的感受，或說出他正在想什麼。 跟你的隊伍成員、或其他你遇到的 NPC 交談。 使用武器對你的敵人進行攻擊。 使用你的特殊能力。 當你在創建角色時，你會決定他的人格特質，像是他相信什麼、他的缺點、以及他想要達成什麼目標。善加利用這些特質來幫助你在每個場景決定你的角色要做什麼。&#xA;把你的角色當成一個真實存在的人物。留神注意他們周遭發生的事，並想想這個世界會怎麼影響他們。&#xA;花點時間跟你的同伴們交談。表達你的情感。質疑你的盟友。說一兩個笑話或故事。當你投入時間去探索每個場景的可能性，並用你角色的聲音去說話時，你會發現遊戲中的那些激情時刻對你來說將變得更有意義。&#xA;然而，不用覺得自己需要在每個情境都做出「正確」的行動而感到壓力。只要做出你覺得角色會做的行動，即使這會帶來不好的後果，故事也會變得更歡樂和有趣。</description>
+    </item>
+    <item>
+      <title>4.所謂家園</title>
+      <link>https://hazmole.github.io/quest-zh-release/character/call-home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/character/call-home/</guid>
+      <description> empty </description>
     </item>
     <item>
       <title>動作場景</title>
@@ -36,53 +155,193 @@
       <description>通常情況，遊戲中的行動不用按照順序，而是隨著玩家們說話、行動、或思考接下來要做什麼的空檔自然流動。&#xA;但在動作場景，玩家們會需要按照回合順序採取行動。在自己的回合，你的角色能四處移動並做一件事。&#xA;這件事可以是使用你的特殊能力、或者其他任何你想像得到的動作，像是幫助朋友站起來、攻擊一個敵人、或嘗試破開一扇門。&#xA;導引者會根據故事中的情境來決定輪到誰的回合。他會在輪到你的回合時告訴你。&#xA;當隊伍中的所有成員都進行過自己的回合後，隊伍在這一輪的行動就結束了。接著，將輪到導引者為他控制的所有生物開始新一輪的行動，進行他們各自的回合行動。</description>
     </item>
     <item>
+      <title>遊俠</title>
+      <link>https://hazmole.github.io/quest-zh-release/abilities/the-ranger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/abilities/the-ranger/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>線索</title>
+      <link>https://hazmole.github.io/quest-zh-release/guide/clues/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/guide/clues/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>5.胸懷信念</title>
+      <link>https://hazmole.github.io/quest-zh-release/character/believe-in-something/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/character/believe-in-something/</guid>
+      <description> empty </description>
+    </item>
+    <item>
       <title>距離</title>
       <link>https://hazmole.github.io/quest-zh-release/game/distances/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hazmole.github.io/quest-zh-release/game/distances/</guid>
-      <description>距離&#xD;想像這個畫面：輪到你的回合，你看到一隻凶惡的怪物。於是你詢問導引者你是否有可能打中牠。&#xA;觸及&#xD;如果怪物處於觸及距離，你可以待在你站的地方並觸碰或擊中牠。&#xA;鄰近&#xD;如果怪物處於鄰近距離，你可以在你的回合移動到觸及距離的位置。&#xA;遠程&#xD;如果怪物處於遠程距離，你可以在這回合使用遠程攻擊來擊中牠。&#xA;遙遠&#xD;如果怪物處於遙遠距離，代表牠的位置超出了你這回合的攻擊範圍。你會需要再靠近一點。</description>
+      <description>距離 想像這個畫面：輪到你的回合，你看到一隻凶惡的怪物。於是你詢問導引者你是否有可能打中牠。&#xA;觸及 如果怪物處於觸及距離，你可以待在你站的地方並觸碰或擊中牠。&#xA;鄰近 如果怪物處於鄰近距離，你可以在你的回合移動到觸及距離的位置。&#xA;遠程 如果怪物處於遠程距離，你可以在這回合使用遠程攻擊來擊中牠。&#xA;遙遠 如果怪物處於遙遠距離，代表牠的位置超出了你這回合的攻擊範圍。你會需要再靠近一點。</description>
+    </item>
+    <item>
+      <title>綠巫</title>
+      <link>https://hazmole.github.io/quest-zh-release/abilities/the-naturalist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/abilities/the-naturalist/</guid>
+      <description> empty </description>
     </item>
     <item>
       <title>擲骰</title>
       <link>https://hazmole.github.io/quest-zh-release/game/rolling-the-dice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hazmole.github.io/quest-zh-release/game/rolling-the-dice/</guid>
-      <description>你會在《奇幻探索物語》中擲骰，讓命運決定接下來發生什麼事。當你嘗試進行某個有風險的行動、或者當加入些運氣成分會讓事情變得更有趣時，導引者會要求你擲骰。&#xA;你在每次進行基本攻擊時都必須要擲骰。所謂的基本攻擊，就是當你說你要使用你的肉體或武器攻擊某人，且沒有使用任何特殊能力的時候所採取的行動。&#xA;在你擲骰之後，看看骰子朝上那一面的數字。拿這個數字（稱為骰值）參照下方的表格。導引者會決定這個行動造成了什麼樣的結果。你可能會迎來好運！但如果運氣不好，那你也將承受後果。你可能會失去你的財產、誤傷隊友、或者面臨痛苦的抉擇。&#xA;輝煌大成功&#xD;這是個振奮人心的時刻。你自動成功，達成你想做到的事情，你甚至可能得到一些額外的好運。如果你是在造成傷害，那麼將傷害翻倍。 成功&#xD;你在沒有任何妥協的情況下成功達成了你想做到的事情。如果你是在造成傷害，那麼你將造成標準數值的傷害。 艱難選擇&#xD;你成功達成了你的行動，但付出了代價。導引者會讓你從兩個負面後果中選擇。 失敗&#xD;你沒能達成原本行動的意圖，並會面對一個由導引者決定的負面後果。你可能會失去裝備、受到敵人反擊造成的傷害、或者面對其他的不幸結果。 災難大失敗&#xD;噢不，你自動失敗，甚至可能會承受一個嚴重的負面後果。 </description>
+      <description>你會在《奇幻探索物語》中擲骰，讓命運決定接下來發生什麼事。當你嘗試進行某個有風險的行動、或者當加入些運氣成分會讓事情變得更有趣時，導引者會要求你擲骰。&#xA;你在每次進行基本攻擊時都必須要擲骰。所謂的基本攻擊，就是當你說你要使用你的肉體或武器攻擊某人，且沒有使用任何特殊能力的時候所採取的行動。&#xA;在你擲骰之後，看看骰子朝上那一面的數字。拿這個數字（稱為骰值）參照下方的表格。導引者會決定這個行動造成了什麼樣的結果。你可能會迎來好運！但如果運氣不好，那你也將承受後果。你可能會失去你的財產、誤傷隊友、或者面臨痛苦的抉擇。&#xA;輝煌大成功 這是個振奮人心的時刻。你自動成功，達成你想做到的事情，你甚至可能得到一些額外的好運。如果你是在造成傷害，那麼將傷害翻倍。 成功 你在沒有任何妥協的情況下成功達成了你想做到的事情。如果你是在造成傷害，那麼你將造成標準數值的傷害。 艱難選擇 你成功達成了你的行動，但付出了代價。導引者會讓你從兩個負面後果中選擇。 失敗 你沒能達成原本行動的意圖，並會面對一個由導引者決定的負面後果。你可能會失去裝備、受到敵人反擊造成的傷害、或者面對其他的不幸結果。 災難大失敗 噢不，你自動失敗，甚至可能會承受一個嚴重的負面後果。 </description>
+    </item>
+    <item>
+      <title>關於擲骰</title>
+      <link>https://hazmole.github.io/quest-zh-release/guide/rolling-the-die/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/guide/rolling-the-die/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>6.脆弱缺陷</title>
+      <link>https://hazmole.github.io/quest-zh-release/character/be-vulnerable/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/character/be-vulnerable/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>挑戰</title>
+      <link>https://hazmole.github.io/quest-zh-release/guide/challenges/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/guide/challenges/</guid>
+      <description> empty </description>
     </item>
     <item>
       <title>致命處境</title>
       <link>https://hazmole.github.io/quest-zh-release/game/deadly-scenes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hazmole.github.io/quest-zh-release/game/deadly-scenes/</guid>
-      <description>不要用光你的生命值&#xD;你的角色與死亡之間的距離，是透過被稱為「生命值」，或稱「HP」的數值來衡量的。&#xA;概念很簡單：你會在受到傷害的時候失去生命值，比如說你被劍砍中。我們把這稱為「傷害」。&#xA;如果你的生命值消耗殆盡，壞事就會發生。 如果你在生命值為０的情況下再次受到傷害，那麼你就有可能會死。&#xA;幸運的是，你的攻擊也同樣致命。你的基本肉搏攻擊（像是拳擊腳踢）能造成１點傷害。大部分的常見武器，像是刀、劍、弓箭等，則能造成２點傷害。&#xA;傷害和恢復&#xD;你會在被武器、法術、和其他會造成傷害的東西擊中時失去生命值。舉例來說，你會在被一把劍砍中時失去２點生命值，而直面巨龍的烈焰吐息則可能會對你造成６點傷害。你起始擁有１０點 HP。這也是你所能擁有生命值的最大上限。&#xA;重振旗鼓&#xD;當你在附近沒有敵人的情況下休息了一小段時間，你的生命值將會恢復到你生命值最大值的一半。舉例來說，如果你在只剩下３點 HP 的時候重振旗鼓，那麼你將會恢復２點 HP。如果你在生命值歸零的情況下重振旗鼓，則你會恢復５點 HP。&#xA;休整&#xD;當你在安全的場所好好地休息了一整晚，你將會恢復你所有的生命值。&#xA;重傷和死亡&#xD;你在生命值耗光之前都不會遭受嚴重傷勢。但當你的生命值歸零，你距離死亡就只剩臨門一腳。你的生命值不會被降到０點以下，但你會一直維持０點生命值的狀態，直到你透過重振旗鼓、休整、或治療等手段恢復。&#xA;如果你在０點生命值的狀態下被擊中，則你需要擲一次骰。如果擲骰結果等於或低於你受到的傷害，則你的角色會就此死亡。舉例來說，如果你在瀕死狀態下被劍砍中並因此受到２點傷害，那麼你會在擲骰骰到１或２的結果時死亡。即使你從這次死亡擲骰中倖存，你仍可能會失去意識，或甚至受到永久性的創傷。&#xA;角色死亡並不代表你就此退出遊戲。如果故事還沒有結束，那麼你可以創建一個新角色，並在隊伍能合理地遇到新夥伴時重新加到遊戲之中。</description>
+      <description>不要用光你的生命值 你的角色與死亡之間的距離，是透過被稱為「生命值」，或稱「HP」的數值來衡量的。&#xA;概念很簡單：你會在受到傷害的時候失去生命值，比如說你被劍砍中。我們把這稱為「傷害」。&#xA;如果你的生命值消耗殆盡，壞事就會發生。 如果你在生命值為０的情況下再次受到傷害，那麼你就有可能會死。&#xA;幸運的是，你的攻擊也同樣致命。你的基本肉搏攻擊（像是拳擊腳踢）能造成１點傷害。大部分的常見武器，像是刀、劍、弓箭等，則能造成２點傷害。&#xA;傷害和恢復 你會在被武器、法術、和其他會造成傷害的東西擊中時失去生命值。舉例來說，你會在被一把劍砍中時失去２點生命值，而直面巨龍的烈焰吐息則可能會對你造成６點傷害。你起始擁有１０點 HP。這也是你所能擁有生命值的最大上限。&#xA;重振旗鼓 當你在附近沒有敵人的情況下休息了一小段時間，你的生命值將會恢復到你生命值最大值的一半。舉例來說，如果你在只剩下３點 HP 的時候重振旗鼓，那麼你將會恢復２點 HP。如果你在生命值歸零的情況下重振旗鼓，則你會恢復５點 HP。&#xA;休整 當你在安全的場所好好地休息了一整晚，你將會恢復你所有的生命值。&#xA;重傷和死亡 你在生命值耗光之前都不會遭受嚴重傷勢。但當你的生命值歸零，你距離死亡就只剩臨門一腳。你的生命值不會被降到０點以下，但你會一直維持０點生命值的狀態，直到你透過重振旗鼓、休整、或治療等手段恢復。&#xA;如果你在０點生命值的狀態下被擊中，則你需要擲一次骰。如果擲骰結果等於或低於你受到的傷害，則你的角色會就此死亡。舉例來說，如果你在瀕死狀態下被劍砍中並因此受到２點傷害，那麼你會在擲骰骰到１或２的結果時死亡。即使你從這次死亡擲骰中倖存，你仍可能會失去意識，或甚至受到永久性的創傷。&#xA;角色死亡並不代表你就此退出遊戲。如果故事還沒有結束，那麼你可以創建一個新角色，並在隊伍能合理地遇到新夥伴時重新加到遊戲之中。</description>
+    </item>
+    <item>
+      <title>醫生</title>
+      <link>https://hazmole.github.io/quest-zh-release/abilities/the-doctor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/abilities/the-doctor/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>7.偉大夢想</title>
+      <link>https://hazmole.github.io/quest-zh-release/character/dream-big/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/character/dream-big/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>行事結果</title>
+      <link>https://hazmole.github.io/quest-zh-release/guide/consequences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/guide/consequences/</guid>
+      <description> empty </description>
     </item>
     <item>
       <title>特殊能力</title>
       <link>https://hazmole.github.io/quest-zh-release/game/abilities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hazmole.github.io/quest-zh-release/game/abilities/</guid>
-      <description>你起始擁有６個特殊能力&#xD;在下一個章節，你將會需要從八個角色定位中選擇一個。每個定位都有其獨特的特殊能力，讓你能夠做出各種特別的行動。可以這樣想，如果你是超級英雄，那這些能力就會是你的招牌異能。&#xA;你在《奇幻探索物語》的世界中可以做任何事，所以不要覺得自己被限制只能使用你的特殊能力。把你的特殊能力想成是一種控制場景的手段。其中一些特別強大的特殊能力甚至能戲劇性的影響改變你們的故事。&#xA;你會需要花費「冒險點（AP）」來啟動你大部分的強大特殊能力。&#xA;你可以在「第三章：特殊能力目錄」參閱各項特殊能力的細節。&#xA;冒險點&#xD;你的其中一些特殊能力是如此強大而費勁，以至於你只能偶爾使用它們幾次。要使用這些特殊能力，你會需要花費 AP。如果某個特殊能力上標註了冒險點的代價，那麼你每次使用它都需要花費相應的 AP。&#xA;你在遊戲開始時擁有１０點 AP。&#xA;你在每次遊戲聚會結束時會獲得５點 AP，做為你花時間陪伴朋友們的獎勵。導引者也可以發放 AP，獎勵那些做出很棒的角色扮演、解開謎題、擊敗反派、達成目標、或帶來歡樂的玩家。&#xA;冒險點不會自己恢復。一旦你把 AP 花掉，那麼直到你再次獲得它們之前，AP 都不會再增長。&#xA;成長&#xD;你和你的同伴們會從一場宏大史詩冒險的起點開始你們的故事。&#xA;你在遊戲開始時會擁有六個從特殊能力目錄挑選出來的特殊能力。&#xA;每個特殊能力都屬於某條「學習路線」，且你在學習新的特殊能力時必須按照順序。隨著你在學習路線上逐漸深入，特殊能力也會變得越來越強大。你可以任意挑選不同路線中的特殊能力來學習，這表示你不需要把某條路線上的所有特殊能力學全，就可以直接挑選另一條學習路線上的特殊能力。&#xA;每次你結束一場《奇幻探索物語》的遊戲聚會，你都可以選擇並學會一個新的特殊能力。如果你玩得時間夠長，你將能夠學會你角色定位上的所有特殊能力。</description>
+      <description>你起始擁有６個特殊能力 在下一個章節，你將會需要從八個角色定位中選擇一個。每個定位都有其獨特的特殊能力，讓你能夠做出各種特別的行動。可以這樣想，如果你是超級英雄，那這些能力就會是你的招牌異能。&#xA;你在《奇幻探索物語》的世界中可以做任何事，所以不要覺得自己被限制只能使用你的特殊能力。把你的特殊能力想成是一種控制場景的手段。其中一些特別強大的特殊能力甚至能戲劇性的影響改變你們的故事。&#xA;你會需要花費「冒險點（AP）」來啟動你大部分的強大特殊能力。&#xA;你可以在「第三章：特殊能力目錄」參閱各項特殊能力的細節。&#xA;冒險點 你的其中一些特殊能力是如此強大而費勁，以至於你只能偶爾使用它們幾次。要使用這些特殊能力，你會需要花費 AP。如果某個特殊能力上標註了冒險點的代價，那麼你每次使用它都需要花費相應的 AP。&#xA;你在遊戲開始時擁有１０點 AP。&#xA;你在每次遊戲聚會結束時會獲得５點 AP，做為你花時間陪伴朋友們的獎勵。導引者也可以發放 AP，獎勵那些做出很棒的角色扮演、解開謎題、擊敗反派、達成目標、或帶來歡樂的玩家。&#xA;冒險點不會自己恢復。一旦你把 AP 花掉，那麼直到你再次獲得它們之前，AP 都不會再增長。&#xA;成長 你和你的同伴們會從一場宏大史詩冒險的起點開始你們的故事。&#xA;你在遊戲開始時會擁有六個從特殊能力目錄挑選出來的特殊能力。&#xA;每個特殊能力都屬於某條「學習路線」，且你在學習新的特殊能力時必須按照順序。隨著你在學習路線上逐漸深入，特殊能力也會變得越來越強大。你可以任意挑選不同路線中的特殊能力來學習，這表示你不需要把某條路線上的所有特殊能力學全，就可以直接挑選另一條學習路線上的特殊能力。&#xA;每次你結束一場《奇幻探索物語》的遊戲聚會，你都可以選擇並學會一個新的特殊能力。如果你玩得時間夠長，你將能夠學會你角色定位上的所有特殊能力。</description>
+    </item>
+    <item>
+      <title>間諜</title>
+      <link>https://hazmole.github.io/quest-zh-release/abilities/the-spy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/abilities/the-spy/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>8.整裝待發</title>
+      <link>https://hazmole.github.io/quest-zh-release/character/gear-up/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/character/gear-up/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>非玩家角色</title>
+      <link>https://hazmole.github.io/quest-zh-release/guide/non-player-characters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/guide/non-player-characters/</guid>
+      <description> empty </description>
     </item>
     <item>
       <title>購買商品</title>
       <link>https://hazmole.github.io/quest-zh-release/game/buying-things/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hazmole.github.io/quest-zh-release/game/buying-things/</guid>
-      <description>接受你需要的，換取你想要的&#xD;基本商品&#xD;你可以在大部分場所中滿足你的基本需求，且無須為它們付錢。這包括了任何一般品質，且角色在日常生活中所需的事物，像是食物、飲品、樸素住所、以及便利商店的貨架上會擺放的各種便宜雜物。&#xA;以下是一些基本物品的範例，你可以在大部分場所取得它們而毋需支付代價：&#xA;餐廳的一頓普通餐點。 平均水準的住處，例如公寓。 旅館的飲食和住宿。 乘坐公共運輸的費用。 尋常衣物。 普通的物品，例如線繩、墨水、郵費、蠟燭、柴火、雜貨、和小型工具。 這裡並沒有一張完整的列表去窮舉哪些東西算是基本商品，且東西是否為基本商品的判斷也取決於你們當前的場景。舉例來說，如果你來到一個強烈排外的小鎮，且當地居民都非常討厭你們，那他們可以能會為了一些你在其他地方能免費獲得的東西收取額外的費用。由導引者負責決定你們想要的東西是否算是基本商品。&#xA;交易&#xD;如果你想要得到某個有價值的東西，像是從商人那裏買到一把閃耀的長劍、或豪華旅社的房間，那麼你可能會需要用你擁有的一個貴重物品來交換。《奇幻探索物語》中並沒有金錢，只有你隨身攜帶的貴重物品。&#xA;如果想從 NPC 手中得到某個東西，你會需要提供一些東西作為交換。這可以是你擁有的物品、或其他無形的東西，像是一個承諾、幫助、或是你的勞力。NPC 可能會接受或拒絕你的提議，或嘗試跟你協商，討價還價。&#xA;如果你們在協商的過程中卡住，你可以請求導引者讓你擲骰，看看你的交易提案是否能夠成功。&#xA;交易是建立在溝通、觀察、和感受的基礎上。因此，物品的價值並沒有一個絕對明確的基準──有意義的，只有什麼人想要、以及他們有多想要它。</description>
+      <description>接受你需要的，換取你想要的 基本商品 你可以在大部分場所中滿足你的基本需求，且無須為它們付錢。這包括了任何一般品質，且角色在日常生活中所需的事物，像是食物、飲品、樸素住所、以及便利商店的貨架上會擺放的各種便宜雜物。&#xA;以下是一些基本物品的範例，你可以在大部分場所取得它們而毋需支付代價：&#xA;餐廳的一頓普通餐點。 平均水準的住處，例如公寓。 旅館的飲食和住宿。 乘坐公共運輸的費用。 尋常衣物。 普通的物品，例如線繩、墨水、郵費、蠟燭、柴火、雜貨、和小型工具。 這裡並沒有一張完整的列表去窮舉哪些東西算是基本商品，且東西是否為基本商品的判斷也取決於你們當前的場景。舉例來說，如果你來到一個強烈排外的小鎮，且當地居民都非常討厭你們，那他們可以能會為了一些你在其他地方能免費獲得的東西收取額外的費用。由導引者負責決定你們想要的東西是否算是基本商品。&#xA;交易 如果你想要得到某個有價值的東西，像是從商人那裏買到一把閃耀的長劍、或豪華旅社的房間，那麼你可能會需要用你擁有的一個貴重物品來交換。《奇幻探索物語》中並沒有金錢，只有你隨身攜帶的貴重物品。&#xA;如果想從 NPC 手中得到某個東西，你會需要提供一些東西作為交換。這可以是你擁有的物品、或其他無形的東西，像是一個承諾、幫助、或是你的勞力。NPC 可能會接受或拒絕你的提議，或嘗試跟你協商，討價還價。&#xA;如果你們在協商的過程中卡住，你可以請求導引者讓你擲骰，看看你的交易提案是否能夠成功。&#xA;交易是建立在溝通、觀察、和感受的基礎上。因此，物品的價值並沒有一個絕對明確的基準──有意義的，只有什麼人想要、以及他們有多想要它。</description>
+    </item>
+    <item>
+      <title>魔術師</title>
+      <link>https://hazmole.github.io/quest-zh-release/abilities/the-magician/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/abilities/the-magician/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>法師</title>
+      <link>https://hazmole.github.io/quest-zh-release/abilities/the-wizard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/abilities/the-wizard/</guid>
+      <description> empty </description>
     </item>
     <item>
       <title>道具欄</title>
       <link>https://hazmole.github.io/quest-zh-release/game/inventory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hazmole.github.io/quest-zh-release/game/inventory/</guid>
-      <description>12個以下的物品&#xD;使用你的角色紀錄紙來追蹤你的生命值、冒險點、和你道具欄中的物品。&#xA;你可以隨意把東西存放在任何地方，像是掛在馬上或堆在家裡，但你的角色身上只能夠攜帶總共１２件物品。你的這１２件物品都必須要能合理地放入背包或被你帶在身上。你可以選擇任意結構和數量的背包或行囊，但它們總共仍然只能容納１２件物品。&#xA;工具套組類型的東西，像是縫紉包、或急救箱等，只會被算做一件物品。你身上穿著的衣服、以及各種平凡且幾乎沒有重量的雜物，像是私人信件、筆、別針等，則不會被計入你的攜帶上限。&#xA;導引者會負責決定哪些物品會被計入你道具欄的攜帶上限。</description>
+      <description>12個以下的物品 使用你的角色紀錄紙來追蹤你的生命值、冒險點、和你道具欄中的物品。&#xA;你可以隨意把東西存放在任何地方，像是掛在馬上或堆在家裡，但你的角色身上只能夠攜帶總共１２件物品。你的這１２件物品都必須要能合理地放入背包或被你帶在身上。你可以選擇任意結構和數量的背包或行囊，但它們總共仍然只能容納１２件物品。&#xA;工具套組類型的東西，像是縫紉包、或急救箱等，只會被算做一件物品。你身上穿著的衣服、以及各種平凡且幾乎沒有重量的雜物，像是私人信件、筆、別針等，則不會被計入你的攜帶上限。&#xA;導引者會負責決定哪些物品會被計入你道具欄的攜帶上限。</description>
+    </item>
+    <item>
+      <title>戰鬥與回合</title>
+      <link>https://hazmole.github.io/quest-zh-release/guide/combat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/guide/combat/</guid>
+      <description> empty </description>
     </item>
     <item>
       <title>基本原則</title>
       <link>https://hazmole.github.io/quest-zh-release/game/general-rules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hazmole.github.io/quest-zh-release/game/general-rules/</guid>
-      <description>善待所有人&#xD;注意保密&#xD;有時候你會需要保守秘密，不讓你自己的角色知道他不該知道的事情。舉例來說，假設隊伍分頭行動，因此你的角色並不在導引者所描述的場景中。儘管身為玩家，你仍然會聽到該場景發生了什麼事情，但你的角色並不會知道這些。&#xA;試著不要利用你角色不知道的情報來角色扮演或做決定。如果其他玩家願意，那就等他們把情報共享出來吧。&#xA;清楚說話&#xD;你在遊戲中會使用兩種聲音來說話：你跳脫角色時的聲音（表示現實世界的你），以及你進入角色時的聲音（代表你正在角色扮演）。確保你永遠能讓人清楚區別你在使用哪種聲音，避免讓遊戲桌上的大家感到困惑。&#xA;擲硬幣決定&#xD;如果你的隊伍無法在行動方針上取得共識，且討論開始停滯下來，那麼你們可以考慮跳脫角色，透過擲硬幣的方式從兩個選項中做出選擇。然後，尊重命運給你們的結果，繼續下去。&#xA;當個公平的導引者&#xD;導引者的職責包括講述故事，扮演遊戲世界中的角色和怪物、並為所有玩家的行動給出相應的結果。&#xA;正所謂「能力越強，責任越大」。由於導引者做出的決斷對於遊戲體驗是如此至關重要，他有責任要明智且公正地行事。想想看，如果導引者經常用殘酷的方式懲罰玩家、總是針對某個玩家、刻意偏袒、或者在規則運用上朝令夕改，那麼遊戲當然不會好玩。&#xA;即使導引者擁有最終決定權，他仍然被預期要在遊戲中做出公平且一致的決定。&#xA;讓大家都玩得愉快&#xD;在你們的故事中，風險和危機總是會讓場景變得緊張刺激，但有時候，現實世界的氣氛也會變得如此。&#xA;你可能會對其他玩家說出或做出的事情感到不爽。或許你覺得規則的使用並不公平、或也許你只是今天特別倒楣。&#xA;就算這樣也沒關係，但記住這場遊戲聚會的目的在玩得開心。如果你玩得不開心，告訴你的朋友為什麼你會有這樣的感受。反過來也一樣，如果是你的朋友感到不爽，確保你有好好地聆聽他們的感受。如果氣氛太過緊繃，那麼所有人都應該暫停一下，喘口氣，稍等一會再回到遊戲中。&#xA;把這一點牢記在心：《奇幻探索物語》的重點並不在於爭輸贏；而是與朋友們共度一段美好時光。</description>
+      <description>善待所有人 注意保密 有時候你會需要保守秘密，不讓你自己的角色知道他不該知道的事情。舉例來說，假設隊伍分頭行動，因此你的角色並不在導引者所描述的場景中。儘管身為玩家，你仍然會聽到該場景發生了什麼事情，但你的角色並不會知道這些。&#xA;試著不要利用你角色不知道的情報來角色扮演或做決定。如果其他玩家願意，那就等他們把情報共享出來吧。&#xA;清楚說話 你在遊戲中會使用兩種聲音來說話：你跳脫角色時的聲音（表示現實世界的你），以及你進入角色時的聲音（代表你正在角色扮演）。確保你永遠能讓人清楚區別你在使用哪種聲音，避免讓遊戲桌上的大家感到困惑。&#xA;擲硬幣決定 如果你的隊伍無法在行動方針上取得共識，且討論開始停滯下來，那麼你們可以考慮跳脫角色，透過擲硬幣的方式從兩個選項中做出選擇。然後，尊重命運給你們的結果，繼續下去。&#xA;當個公平的導引者 導引者的職責包括講述故事，扮演遊戲世界中的角色和怪物、並為所有玩家的行動給出相應的結果。&#xA;正所謂「能力越強，責任越大」。由於導引者做出的決斷對於遊戲體驗是如此至關重要，他有責任要明智且公正地行事。想想看，如果導引者經常用殘酷的方式懲罰玩家、總是針對某個玩家、刻意偏袒、或者在規則運用上朝令夕改，那麼遊戲當然不會好玩。&#xA;即使導引者擁有最終決定權，他仍然被預期要在遊戲中做出公平且一致的決定。&#xA;讓大家都玩得愉快 在你們的故事中，風險和危機總是會讓場景變得緊張刺激，但有時候，現實世界的氣氛也會變得如此。&#xA;你可能會對其他玩家說出或做出的事情感到不爽。或許你覺得規則的使用並不公平、或也許你只是今天特別倒楣。&#xA;就算這樣也沒關係，但記住這場遊戲聚會的目的在玩得開心。如果你玩得不開心，告訴你的朋友為什麼你會有這樣的感受。反過來也一樣，如果是你的朋友感到不爽，確保你有好好地聆聽他們的感受。如果氣氛太過緊繃，那麼所有人都應該暫停一下，喘口氣，稍等一會再回到遊戲中。&#xA;把這一點牢記在心：《奇幻探索物語》的重點並不在於爭輸贏；而是與朋友們共度一段美好時光。</description>
+    </item>
+    <item>
+      <title>第一次聚會</title>
+      <link>https://hazmole.github.io/quest-zh-release/guide/the-first-play/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/guide/the-first-play/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>進階規則</title>
+      <link>https://hazmole.github.io/quest-zh-release/guide/advanced-rules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/guide/advanced-rules/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>如何使用寶藏</title>
+      <link>https://hazmole.github.io/quest-zh-release/treasure/how-to-use/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/treasure/how-to-use/</guid>
+      <description>增添驚奇與樂趣 你可以用各種稀奇古怪的魔法道具來獎勵玩家，吸引他們的注意力，讓他們繼續沉迷於冒險之中。&#xA;得到寶藏是玩家們在遊戲中所能體驗到最棒的事情之一。每當他們深入地城深處、擊敗邪惡反派、解決神秘謎團、或完成任務時，你就該考慮給他們某個實體的東西作為獎勵。&#xA;寶藏在你的故事中可以是任何東西。它能夠幫上英雄們的忙、阻礙他們、讓他們用不同的方式看待這個世界、或甚至激發他們啟程踏上另一場史詩冒險。&#xA;稀有度 遊戲中的每個物品都是根據其稀有度進行分類──用來衡量這東西究竟有多特別。你可以參考物品的稀有度，來決定它在你們的故事情境中是否能作為合適的獎勵。&#xA;非常見 非常見的物品比大部分人們每天能見到的常見商品還要來得更有價值且奇特。你可以考慮把非常見的物品作為小型遭遇的獎勵，像是擊敗一群強盜爪牙、或者在特殊商店的後室中被交易的珍品。 你可以隨意在每場遊戲聚會中給他們一個或以上的非常見物品。&#xA;珍稀 這些擁有極高價值的特別物品相當罕見，且通常被嚴密看管。你應該把珍稀的物品作為玩家們完成一連串困難挑戰的獎勵。 讓隊伍在每２～３場遊戲聚會後獲得一個珍稀物品會是比較恰當的頻率。&#xA;傳奇 這些無價且通常是獨一無二的物品擁有著強大的力量，只能在最偏遠且戒備森嚴的地方被找到。獲得它們的過程將會是場極端困難的任務，且傳奇物品的持有者通常會竭盡所能地保護它們不被奪走。 在玩家們完成一個主要的故事弧、或差不多每７～１０場遊戲聚會後給予他們一個傳奇物品。&#xA;至尊 這些物品蘊含著如此荒誕的力量，以至於使用它們所造成的後果甚至會對整個宇宙諸界帶來影響。 只有在你希望讓這類物品的獨特功能戲劇性地改變你們的故事時，才將其授予給玩家們。&#xA;管理寶藏 物品的存在相當重要。&#xA;贏得寶藏的期待能夠吸引玩家們踏上冒險。同時，他們也會需要用寶藏來換取他們想要的事物，因此你可以自由隨意地發放非常見的物品給他們。&#xA;花點心思在你要給玩家們的寶藏上。就像 NPC 一樣，讓這些寶藏適當不突兀地出現在它們所在的場所。想想看為什麼它會出現在這裡、有誰想要它、以及當玩家們得到它之後會發生什麼事。每個物品都可以在你們地故事中帶來各自的影響和後果。&#xA;如果你給了玩家們一個極端強大的物品，想一想它會怎麼影響玩家們周圍的世界。&#xA;把傳奇和至尊級的物品當作磁鐵，讓它們把貪婪的 NPC 們吸引而來。&#xA;當你把強大的物品交給玩家時，你可以先對物品的效果或能力保密。試著只描述他們找到物品的外觀，而不給它取名。你可以讓玩家們透過調查來了解該物品的功能、或者等到他們意外將其啟動！&#xA;重要符號 2 這個數值代表當道具被用來攻擊時會造成多少傷害。&#xA;1 有些道具會有跟特殊能力一樣的啟動費用。 這個數值代表使用者必須花費多少的冒險點才能啟動這個道具的特殊效果。</description>
+    </item>
+    <item>
+      <title>導引者</title>
+      <link>https://hazmole.github.io/quest-zh-release/guide/the-guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/guide/the-guide/</guid>
+      <description> empty </description>
     </item>
   </channel>
 </rss>

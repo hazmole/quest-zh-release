@@ -28,4 +28,4 @@ title: "如何遊玩"
 　讚喔！你骰出了成功。你在攻擊這頭熊的時候畫面上看起來會是什麼樣子？」
 {{< /block >}}
 
-<center><img src="../img39.jpg" width="450"/></center>
+<center><img src="../img/img39.jpg" width="450"/></center>

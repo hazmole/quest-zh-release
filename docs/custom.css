@@ -81,6 +81,7 @@
 
 :root h2 {
   margin-top: 0;
+  margin-bottom: 1rem;
   color: var(--footer-background);
 }
 :root h3 {
@@ -91,8 +92,16 @@
 :root h4 {
   margin-bottom: 0;
 }
+:root p {
+  margin-block-start: .5em;
+}
 :root .block {
   background-color: var(--code-background);
   padding: .5rem;
   margin-top: .2rem;
+}
+:root .char-profile-block {
+  background:var(--code-accent-color);
+  font-weight:bolder;
+  padding: .5rem;
 }

@@ -10,7 +10,7 @@ title: "擲骰"
 在你擲骰之後，看看骰子朝上那一面的數字。拿這個數字（稱為骰值）參照下方的表格。導引者會決定這個行動造成了什麼樣的結果。你可能會迎來好運！但如果運氣不好，那你也將承受後果。你可能會失去你的財產、誤傷隊友、或者面臨痛苦的抉擇。
 
 <div style="display:flex;align-items:center;">
-	<img src="../img65-1.jpg" style="width:300px;height:100px;" />
+	<img src="../img/img65-1.jpg" style="width:300px;height:100px;" />
 	<div>
 
 ### 輝煌大成功
@@ -18,7 +18,7 @@ title: "擲骰"
 	</div>
 </div>
 <div style="display:flex;align-items:center;">
-	<img src="../img65-2.jpg" style="width:300px;height:100px;"/>
+	<img src="../img/img65-2.jpg" style="width:300px;height:100px;"/>
 	<div>
 		
 ### 成功
@@ -26,7 +26,7 @@ title: "擲骰"
 	</div>
 </div>
 <div style="display:flex;align-items:center;">
-	<img src="../img65-3.jpg" style="width:300px;height:100px;"/>
+	<img src="../img/img65-3.jpg" style="width:300px;height:100px;"/>
 	<div>
 		
 ### 艱難選擇
@@ -34,7 +34,7 @@ title: "擲骰"
 	</div>
 </div>
 <div style="display:flex;align-items:center;">
-	<img src="../img65-4.jpg" style="width:300px;height:100px;"/>
+	<img src="../img/img65-4.jpg" style="width:300px;height:100px;"/>
 	<div>
 		
 ### 失敗
@@ -42,7 +42,7 @@ title: "擲骰"
 	</div>
 </div>
 <div style="display:flex;align-items:center;">
-	<img src="../img65-5.jpg" style="width:300px;height:100px;"/>
+	<img src="../img/img65-5.jpg" style="width:300px;height:100px;"/>
 	<div>
 		
 ### 災難大失敗

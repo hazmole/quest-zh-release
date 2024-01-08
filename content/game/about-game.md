@@ -48,6 +48,6 @@ title: "關於遊戲"
 - 零嘴和飲料。
 - 一些背景音樂。
 
-<img src="../img28.jpg" width="500"/>
+<img src="../img/img28.jpg" width="500"/>
 {{< /columns >}}
 

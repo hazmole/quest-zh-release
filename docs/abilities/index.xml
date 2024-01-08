@@ -1,11 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>特殊能力目錄 on Quest 奇幻探索物語 - 中文規則站</title>
+    <title>第三章：特殊能力目錄 on Quest 奇幻探索物語 - 中文規則站</title>
     <link>https://hazmole.github.io/quest-zh-release/abilities/</link>
-    <description>Recent content in 特殊能力目錄 on Quest 奇幻探索物語 - 中文規則站</description>
+    <description>Recent content in 第三章：特殊能力目錄 on Quest 奇幻探索物語 - 中文規則站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <atom:link href="https://hazmole.github.io/quest-zh-release/abilities/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>特殊能力如何運作</title>
+      <link>https://hazmole.github.io/quest-zh-release/abilities/how-ability-work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/abilities/how-ability-work/</guid>
+      <description> 選擇你邁向巔峰的道路 你是否曾閉上雙眼，希望某些神奇的魔法奇蹟能夠化為現實？&#xA;也許是與動物交談、長出翅膀在天際翱翔、隱形消失、或甚至穿越時間和空間？&#xA;《奇幻探索物語》是個充滿魔法的地方，在這裡，任何事都有可能發生。&#xA;在這個章節，你將看到所有讓每個角色定位之所以獨一無二的特殊能力。接下來的幾頁，你會學到關於特殊能力的重要規則與關鍵字說明，用來解釋這些特殊能力該如何運作。&#xA;選擇特殊能力 學習路線 傳奇能力 冒險點 間諜的神奇工具 「在遊戲桌上」 「擲骰」 重要關鍵字 </description>
+    </item>
+    <item>
+      <title>宇宙諸界</title>
+      <link>https://hazmole.github.io/quest-zh-release/abilities/the-omniverse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/abilities/the-omniverse/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>戰士</title>
+      <link>https://hazmole.github.io/quest-zh-release/abilities/the-fighter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/abilities/the-fighter/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>祈喚衛士</title>
+      <link>https://hazmole.github.io/quest-zh-release/abilities/the-invoker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/abilities/the-invoker/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>遊俠</title>
+      <link>https://hazmole.github.io/quest-zh-release/abilities/the-ranger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/abilities/the-ranger/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>綠巫</title>
+      <link>https://hazmole.github.io/quest-zh-release/abilities/the-naturalist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/abilities/the-naturalist/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>醫生</title>
+      <link>https://hazmole.github.io/quest-zh-release/abilities/the-doctor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/abilities/the-doctor/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>間諜</title>
+      <link>https://hazmole.github.io/quest-zh-release/abilities/the-spy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/abilities/the-spy/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>魔術師</title>
+      <link>https://hazmole.github.io/quest-zh-release/abilities/the-magician/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/abilities/the-magician/</guid>
+      <description> empty </description>
+    </item>
+    <item>
+      <title>法師</title>
+      <link>https://hazmole.github.io/quest-zh-release/abilities/the-wizard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hazmole.github.io/quest-zh-release/abilities/the-wizard/</guid>
+      <description> empty </description>
+    </item>
   </channel>
 </rss>
