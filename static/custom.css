@@ -90,6 +90,7 @@
   color: var(--header-background);
 }
 :root h4 {
+  margin-top: .5em;
   margin-bottom: 0;
 }
 :root p {
@@ -109,15 +110,15 @@
 
 :root .ideal-card,
 :root .flaw-card {
-  width: 265px;
-  padding: 1rem;
+  margin: .5rem;
+  padding: .5rem;
+  border: 0px solid black;
 }
 :root .ideal-card .quote,
 :root .flaw-card .quote {
   display: flex;
   flex-direction: row;
   align-items: center;
-  height: 3rem;
   font-weight: bold;
   font-style: italic;
   text-indent: -1em;
@@ -129,12 +130,60 @@
 :root .ideal-card .title,
 :root .flaw-card .title {
   font-weight: bold;
-  text-align: center;
-  padding: .5rem 0;
   font-size: 1.1em;
 }
 :root .ideal-card .desc,
 :root .flaw-card .desc {
-  height: 4rem;
   font-size: 15px;
 }
+
+/* Number tag */
+.num-tag {
+  display: inline;
+  position: relative;
+  padding: 0 5px;
+  margin-right: 5px;
+  font-size: 14px;
+  font-weight:bold;
+}
+.num-tag.cost:after {
+  content: "";
+  position: absolute;
+  right: -6px;
+  bottom: 0; top: 0;
+  border-right: 0px;
+  border-left: 6px solid black;
+  border-top: 8px solid transparent;
+  border-bottom: 8px solid transparent;
+}
+.num-tag.cost { background:black; color:white; }
+.num-tag.dmg { background:white; color:red; border:red solid 2px; margin-right:0; }
+.num-tag.dmg:after { border-left-color:red; }
+
+/* RollingDice tag */
+.rolling-tag {
+  display: inline-block;
+  padding: 0 1.1em;
+  background: var(--footer-background);
+  color: white;
+  line-height: 1.3rem;
+  font-size: 14px;
+}
+
+/* Item block */
+.item-block {
+  border: 1px solid var(--code-copy-font-color);
+  padding: .5em;
+  margin: .5em 0;
+}
+.item-block .title {
+  font-weight: bold;
+  margin-bottom: .5em;
+}
+.item-block p,
+.item-block ul {
+  margin-top: .5em;
+  margin-bottom: .5em;
+}
+.item-block .table-wrap { margin: 0;}
+.item-block thead { display:none; }
