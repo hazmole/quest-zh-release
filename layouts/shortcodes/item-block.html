@@ -1,5 +1,7 @@
-<div class="item-block" {{ if or (.Get "open") (in .Params "open") }}open{{ end }}>
-  <div class="title">{{ cond .IsNamedParams (.Get "title") (.Get 0) }}</div>
+{{ $title := .Get "title" }}
+
+<div class="item-block">
+  <div class="title" id="{{ $title }}">{{ $title }}</div>
   <div class="markdown-inner">
     {{ .Inner | markdownify }}
   </div>
