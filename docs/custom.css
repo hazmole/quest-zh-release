@@ -180,6 +180,9 @@
   font-weight: bold;
   margin-bottom: .5em;
 }
+.item-block .title       a { display:none; }
+.item-block .title:hover a { display:inline; color:var(--control-icons); }
+
 .item-block p,
 .item-block ul {
   margin-top: .5em;

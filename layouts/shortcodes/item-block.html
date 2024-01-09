@@ -1,7 +1,10 @@
 {{ $title := .Get "title" }}
 
 <div class="item-block">
-  <div class="title" id="{{ $title }}">{{ $title }}</div>
+  <div class="title" id="{{ $title }}">
+    {{ $title }}
+    <a href="#{{ $title }}"><svg class="gdoc-icon gdoc_link"><use xlink:href="#gdoc_link"></use></svg></a>
+  </div>
   <div class="markdown-inner">
     {{ .Inner | markdownify }}
   </div>
