@@ -1,6 +1,7 @@
 {{ $title := .Get "title" }}
+{{ $type  := .Get "type" }}
 
-<div class="item-block">
+<div class="item-block ability {{ $type }}">
   {{- if $title }}
   <div class="title" id="{{ $title }}">
     {{ $title }}

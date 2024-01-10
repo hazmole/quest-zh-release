@@ -176,7 +176,7 @@
   padding: .5em;
   margin: .5em 0;
 }
-.item-block .title {
+.item-block    .title {
   font-weight: bold;
   margin-bottom: .5em;
 }
@@ -188,5 +188,30 @@
   margin-top: .5em;
   margin-bottom: .5em;
 }
+.item-block p:last-child,
+.item-block ul:last-child {
+  margin-bottom: 0em;
+}
 .item-block .table-wrap { margin: 0;}
 .item-block thead { display:none; }
+
+:root {
+  --role-color-fighter:    #fb1212;
+  --role-color-invoker:    #3251c7;
+  --role-color-ranger:     #0099bd;
+  --role-color-naturalist: #019700;
+  --role-color-doctor:     #741b47;
+  --role-color-spy:        #5826b5;
+  --role-color-magician:   #e6039b;
+  --role-color-wizard:     #dfb100;
+}
+.item-block.ability.fighter    { border-color: var(--role-color-fighter); }
+.item-block.ability.invoker    { border-color: var(--role-color-invoker); }
+.item-block.ability.ranger     { border-color: var(--role-color-ranger); }
+.item-block.ability.naturalist { border-color: var(--role-color-naturalist); }
+.item-block.ability.doctor     { border-color: var(--role-color-doctor); }
+.item-block.ability.spy        { border-color: var(--role-color-spy); }
+.item-block.ability.magician   { border-color: var(--role-color-magician); }
+.item-block.ability.wizard     { border-color: var(--role-color-wizard); }
+
+
