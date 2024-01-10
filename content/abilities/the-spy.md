@@ -12,24 +12,59 @@ title: "間諜"
 {{< tabs "spy" >}}
 
 {{< tab "魅力" >}}
+<h3 style="color: var(--role-color-spy);">魅力</h3>
+{{< block >}}
+〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+{{< /block >}}
+
 {{< /tab >}}
 
 {{< tab "終結" >}}
+<h3 style="color: var(--role-color-spy);">終結</h3>
+{{< block >}}
+〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+{{< /block >}}
+
 {{< /tab >}}
 
 {{< tab "隱蔽" >}}
+<h3 style="color: var(--role-color-spy);">隱蔽</h3>
+{{< block >}}
+〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+{{< /block >}}
+
 {{< /tab >}}
 
 {{< tab "監控" >}}
+<h3 style="color: var(--role-color-spy);">監控</h3>
+{{< block >}}
+〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+{{< /block >}}
+
 {{< /tab >}}
 
 {{< tab "速記" >}}
+<h3 style="color: var(--role-color-spy);">速記</h3>
+{{< block >}}
+〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+{{< /block >}}
+
 {{< /tab >}}
 
 {{< tab "滲透" >}}
+<h3 style="color: var(--role-color-spy);">滲透</h3>
+{{< block >}}
+〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+{{< /block >}}
+
 {{< /tab >}}
 
 {{< tab "扮演" >}}
+<h3 style="color: var(--role-color-spy);">扮演</h3>
+{{< block >}}
+〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+{{< /block >}}
+
 {{< /tab >}}
 
 {{< tab "傳奇能力"  >}}

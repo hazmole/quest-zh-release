@@ -12,21 +12,51 @@ title: "綠巫"
 {{< tabs "naturalist" >}}
 
 {{< tab "變形者" >}}
+<h3 style="color: var(--role-color-naturalist);">變形者</h3>
+{{< block >}}
+〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+{{< /block >}}
+
 {{< /tab >}}
 
 {{< tab "召喚師" >}}
+<h3 style="color: var(--role-color-naturalist);">召喚師</h3>
+{{< block >}}
+〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+{{< /block >}}
+
 {{< /tab >}}
 
 {{< tab "元素使" >}}
+<h3 style="color: var(--role-color-naturalist);">元素使</h3>
+{{< block >}}
+〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+{{< /block >}}
+
 {{< /tab >}}
 
 {{< tab "暴風御者" >}}
+<h3 style="color: var(--role-color-naturalist);">暴風御者</h3>
+{{< block >}}
+〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+{{< /block >}}
+
 {{< /tab >}}
 
 {{< tab "精魂求喚者" >}}
+<h3 style="color: var(--role-color-naturalist);">精魂求喚者</h3>
+{{< block >}}
+〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+{{< /block >}}
+
 {{< /tab >}}
 
 {{< tab "生態學家" >}}
+<h3 style="color: var(--role-color-naturalist);">生態學家</h3>
+{{< block >}}
+〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+{{< /block >}}
+
 {{< /tab >}}
 
 {{< tab "傳奇能力"  >}}

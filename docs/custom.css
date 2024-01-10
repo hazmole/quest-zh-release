@@ -164,7 +164,7 @@
 .rolling-tag {
   display: inline-block;
   padding: 0 1.1em;
-  background: var(--footer-background);
+  background: #714c81;
   color: white;
   line-height: 1.3rem;
   font-size: 14px;
@@ -186,7 +186,7 @@
 .item-block p,
 .item-block ul {
   margin-top: .5em;
-  margin-bottom: .5em;
+  margin-bottom: .8em;
 }
 .item-block p:last-child,
 .item-block ul:last-child {

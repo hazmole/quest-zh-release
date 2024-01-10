@@ -12,21 +12,51 @@ title: "醫生"
 {{< tabs "doctor" >}}
 
 {{< tab "治癒" >}}
+<h3 style="color: var(--role-color-doctor);">治癒</h3>
+{{< block >}}
+〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+{{< /block >}}
+
 {{< /tab >}}
 
 {{< tab "改造" >}}
+<h3 style="color: var(--role-color-doctor);">改造</h3>
+{{< block >}}
+〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+{{< /block >}}
+
 {{< /tab >}}
 
 {{< tab "死靈" >}}
+<h3 style="color: var(--role-color-doctor);">死靈</h3>
+{{< block >}}
+〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+{{< /block >}}
+
 {{< /tab >}}
 
 {{< tab "傷害" >}}
+<h3 style="color: var(--role-color-doctor);">傷害</h3>
+{{< block >}}
+〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+{{< /block >}}
+
 {{< /tab >}}
 
 {{< tab "感覺" >}}
+<h3 style="color: var(--role-color-doctor);">感覺</h3>
+{{< block >}}
+〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+{{< /block >}}
+
 {{< /tab >}}
 
 {{< tab "鑑識" >}}
+<h3 style="color: var(--role-color-doctor);">鑑識</h3>
+{{< block >}}
+〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+{{< /block >}}
+
 {{< /tab >}}
 
 {{< tab "傳奇能力"  >}}

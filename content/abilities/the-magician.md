@@ -12,21 +12,51 @@ title: "魔術師"
 {{< tabs "magician" >}}
 
 {{< tab "誤導" >}}
+<h3 style="color: var(--role-color-magician);">誤導</h3>
+{{< block >}}
+〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+{{< /block >}}
+
 {{< /tab >}}
 
 {{< tab "幻體" >}}
+<h3 style="color: var(--role-color-magician);">幻體</h3>
+{{< block >}}
+〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+{{< /block >}}
+
 {{< /tab >}}
 
 {{< tab "透識" >}}
+<h3 style="color: var(--role-color-magician);">透識</h3>
+{{< block >}}
+〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+{{< /block >}}
+
 {{< /tab >}}
 
 {{< tab "造物" >}}
+<h3 style="color: var(--role-color-magician);">造物</h3>
+{{< block >}}
+〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+{{< /block >}}
+
 {{< /tab >}}
 
 {{< tab "心控" >}}
+<h3 style="color: var(--role-color-magician);">心控</h3>
+{{< block >}}
+〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+{{< /block >}}
+
 {{< /tab >}}
 
 {{< tab "騷亂" >}}
+<h3 style="color: var(--role-color-magician);">騷亂</h3>
+{{< block >}}
+〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+{{< /block >}}
+
 {{< /tab >}}
 
 {{< tab "傳奇能力"  >}}
