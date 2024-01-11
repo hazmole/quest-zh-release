@@ -172,7 +172,7 @@
 
 /* Item block */
 .item-block {
-  border: 1px solid var(--code-copy-font-color);
+  border: 2px solid var(--code-copy-font-color);
   padding: .5em;
   margin: .5em 0;
 }
@@ -194,6 +194,7 @@
 }
 .item-block .table-wrap { margin: 0;}
 .item-block thead { display:none; }
+.item-block tr:last-child { border-bottom:0 !important; }
 
 :root {
   --role-color-fighter:    #fb1212;
@@ -205,6 +206,7 @@
   --role-color-magician:   #e6039b;
   --role-color-wizard:     #dfb100;
 }
+.item-block.ability { border-radius:5px; }
 .item-block.ability.fighter    { border-color: var(--role-color-fighter); }
 .item-block.ability.invoker    { border-color: var(--role-color-invoker); }
 .item-block.ability.ranger     { border-color: var(--role-color-ranger); }

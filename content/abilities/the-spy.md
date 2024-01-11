@@ -14,7 +14,7 @@ title: "間諜"
 {{< tab "魅力" >}}
 <h3 style="color: var(--role-color-spy);">魅力</h3>
 {{< block >}}
-〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+〈遊歷四海〉 — 〈舌燦蓮花〉 — 〈你不知道我是誰嗎？〉
 {{< /block >}}
 
 {{< /tab >}}
@@ -22,7 +22,7 @@ title: "間諜"
 {{< tab "終結" >}}
 <h3 style="color: var(--role-color-spy);">終結</h3>
 {{< block >}}
-〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+〈偷襲〉 — 〈毒藥〉 — 〈死亡之手〉 — 〈懸賞〉
 {{< /block >}}
 
 {{< /tab >}}
@@ -30,7 +30,7 @@ title: "間諜"
 {{< tab "隱蔽" >}}
 <h3 style="color: var(--role-color-spy);">隱蔽</h3>
 {{< block >}}
-〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+〈隱刃綁帶〉 — 〈偽裝〉 — 〈瞬現百寶袋〉 — 〈萬形劍柄〉 — 〈陰影斗篷〉
 {{< /block >}}
 
 {{< /tab >}}
@@ -38,7 +38,7 @@ title: "間諜"
 {{< tab "監控" >}}
 <h3 style="color: var(--role-color-spy);">監控</h3>
 {{< block >}}
-〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+〈追蹤器〉 — 〈間諜眼鏡〉 — 〈訊息複製護符〉 — 〈探知寶珠〉
 {{< /block >}}
 
 {{< /tab >}}
@@ -46,7 +46,7 @@ title: "間諜"
 {{< tab "速記" >}}
 <h3 style="color: var(--role-color-spy);">速記</h3>
 {{< block >}}
-〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+〈謄印魔書〉 — 〈仿錄妙筆〉 — 〈聽音石〉 — 〈密語之戒〉
 {{< /block >}}
 
 {{< /tab >}}
@@ -54,7 +54,7 @@ title: "間諜"
 {{< tab "滲透" >}}
 <h3 style="color: var(--role-color-spy);">滲透</h3>
 {{< block >}}
-〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+〈飄羽抓鉤〉 — 〈即興拼裝〉 — 〈萬用鑰匙〉 — 〈全視藍圖〉
 {{< /block >}}
 
 {{< /tab >}}
@@ -62,7 +62,7 @@ title: "間諜"
 {{< tab "扮演" >}}
 <h3 style="color: var(--role-color-spy);">扮演</h3>
 {{< block >}}
-〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+〈偽造身分〉
 {{< /block >}}
 
 {{< /tab >}}

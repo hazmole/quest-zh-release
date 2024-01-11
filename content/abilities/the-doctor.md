@@ -14,7 +14,7 @@ title: "醫生"
 {{< tab "治癒" >}}
 <h3 style="color: var(--role-color-doctor);">治癒</h3>
 {{< block >}}
-〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+〈癒合傷勢〉 — 〈舒緩之語〉 — 〈治療術〉 — 〈復原術〉
 {{< /block >}}
 
 {{< /tab >}}
@@ -22,7 +22,7 @@ title: "醫生"
 {{< tab "改造" >}}
 <h3 style="color: var(--role-color-doctor);">改造</h3>
 {{< block >}}
-〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+〈睡眠術〉 — 〈硬化表皮〉 — 〈假死術〉 — 〈整容術〉 — 〈生命連結〉
 {{< /block >}}
 
 {{< /tab >}}
@@ -30,7 +30,7 @@ title: "醫生"
 {{< tab "死靈" >}}
 <h3 style="color: var(--role-color-doctor);">死靈</h3>
 {{< block >}}
-〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+〈死亡感應〉 — 〈死者交談術〉 — 〈活化屍體〉 — 〈附身亡魂〉
 {{< /block >}}
 
 {{< /tab >}}
@@ -38,7 +38,7 @@ title: "醫生"
 {{< tab "傷害" >}}
 <h3 style="color: var(--role-color-doctor);">傷害</h3>
 {{< block >}}
-〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+〈潰傷術〉 — 〈化合刺激〉 — 〈苦痛折磨〉 — 〈凋零術〉 — 〈心臟咒殺〉
 {{< /block >}}
 
 {{< /tab >}}
@@ -46,7 +46,7 @@ title: "醫生"
 {{< tab "感覺" >}}
 <h3 style="color: var(--role-color-doctor);">感覺</h3>
 {{< block >}}
-〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+〈知覺調幅〉 — 〈操弄感官〉 — 〈認知錯覺〉 — 〈遺忘術〉
 {{< /block >}}
 
 {{< /tab >}}
@@ -54,7 +54,7 @@ title: "醫生"
 {{< tab "鑑識" >}}
 <h3 style="color: var(--role-color-doctor);">鑑識</h3>
 {{< block >}}
-〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+〈遺體鑑識〉 — 〈診斷〉 — 〈怪奇案件〉
 {{< /block >}}
 
 {{< /tab >}}

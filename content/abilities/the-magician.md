@@ -14,7 +14,7 @@ title: "魔術師"
 {{< tab "誤導" >}}
 <h3 style="color: var(--role-color-magician);">誤導</h3>
 {{< block >}}
-〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+〈魔術把戲〉 — 〈催眠〉 — 〈轉移怒火〉 — 〈海市蜃樓〉 — 〈隱形術〉
 {{< /block >}}
 
 {{< /tab >}}
@@ -22,7 +22,7 @@ title: "魔術師"
 {{< tab "幻體" >}}
 <h3 style="color: var(--role-color-magician);">幻體</h3>
 {{< block >}}
-〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+〈分身鏡影〉 — 〈忌厭魅影〉 — 〈活物幻體〉
 {{< /block >}}
 
 {{< /tab >}}
@@ -30,7 +30,7 @@ title: "魔術師"
 {{< tab "透識" >}}
 <h3 style="color: var(--role-color-magician);">透識</h3>
 {{< block >}}
-〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+〈祕法魔眼〉 — 〈心靈低語〉 — 〈傳訊術〉 — 〈通譯術〉 — 〈洞察術〉
 {{< /block >}}
 
 {{< /tab >}}
@@ -38,7 +38,7 @@ title: "魔術師"
 {{< tab "造物" >}}
 <h3 style="color: var(--role-color-magician);">造物</h3>
 {{< block >}}
-〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+〈哨戒小鳥〉 — 〈海倫的夢幻盛宴〉 — 〈天眼〉 — 〈影界安居〉
 {{< /block >}}
 
 {{< /tab >}}
@@ -46,7 +46,7 @@ title: "魔術師"
 {{< tab "心控" >}}
 <h3 style="color: var(--role-color-magician);">心控</h3>
 {{< block >}}
-〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+〈迷惑術〉 — 〈蕾恩的歡樂美夢〉 — 〈歡快泛濫〉 — 〈恐懼術〉
 {{< /block >}}
 
 {{< /tab >}}
@@ -54,7 +54,7 @@ title: "魔術師"
 {{< tab "騷亂" >}}
 <h3 style="color: var(--role-color-magician);">騷亂</h3>
 {{< block >}}
-〈〉 — 〈〉 — 〈〉 — 〈〉 — 〈〉
+〈光耀迸發〉 — 〈迷幻箭〉 — 〈鬆綁術〉 — 〈混亂彈球〉
 {{< /block >}}
 
 {{< /tab >}}
