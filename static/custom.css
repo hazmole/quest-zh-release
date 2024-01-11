@@ -128,8 +128,8 @@
   border-top: 8px solid transparent;
   border-bottom: 8px solid transparent;
 }
-.num-tag.cost { background:black; color:white; }
-.num-tag.dmg { background:white; color:red; border:red solid 2px; margin-right:0; }
+.num-tag.cost { margin-right:10px; background:black; color:white; }
+.num-tag.dmg  { margin-right:5px; background:white; color:red; border:red solid 2px; }
 .num-tag.dmg:after { border-left-color:red; }
 
 /* RollingDice tag */
@@ -192,5 +192,7 @@
 .item-block.ability.wizard     { border-color: var(--role-color-wizard); }
 
 .item-block.example { border-color: var(--code-copy-border-color); }
-.item-block.example.clue      .title { background:#9b395d; color:var(--accent-color); }
-.item-block.example.challenge .title { background:#5a4b73; color:var(--accent-color); }
+.item-block.example.clue        { border-color:#9b395d; }
+.item-block.example.clue .title { background:  #9b395d; color:var(--accent-color); }
+.item-block.example.challenge        { border-color:#5a4b73; }
+.item-block.example.challenge .title { background:  #5a4b73; color:var(--accent-color); }
