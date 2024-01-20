@@ -14,6 +14,10 @@ title: "魔術師"
 〈<a href="#迷惑術">迷惑術</a>〉,
 〈<a href="#光耀迸發">光耀迸發</a>〉
 
+<center>
+{{< my-img src="image/img207.jpg" width="400" >}}
+</center>
+
 <b>學習路線</b>
 {{< tabs "magician" >}}
 {{< tab "誤導" >}}

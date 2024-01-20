@@ -65,3 +65,6 @@ title: "4.所謂家園"
 {{< /columns >}}
 
 
+<center>
+{{< my-img src="image/img121.jpg" width="700" >}}
+</center>

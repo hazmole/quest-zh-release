@@ -14,6 +14,10 @@ title: "綠巫"
 〈<a href="#野性風貌">野性風貌</a>〉,
 〈<a href="#命令植物">命令植物</a>〉
 
+<center>
+{{< my-img src="image/img204.jpg" width="400" >}}
+</center>
+
 <b>學習路線</b>
 {{< tabs "naturalist" >}}
 

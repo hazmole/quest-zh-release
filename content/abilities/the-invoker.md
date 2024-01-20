@@ -15,6 +15,10 @@ title: "祈喚衛士"
 〈<a href="#雷霆真言">雷霆真言</a>〉,
 〈<a href="#聖盾">聖盾</a>〉
 
+<center>
+{{< my-img src="image/img202.jpg" width="400" >}}
+</center>
+
 <b>學習路線</b>
 {{< tabs "invoker" >}}
 

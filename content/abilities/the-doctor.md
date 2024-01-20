@@ -14,6 +14,10 @@ title: "醫生"
 〈<a href="#知覺調幅">知覺調幅</a>〉,
 〈<a href="#遺體鑑識">遺體鑑識</a>〉
 
+<center>
+{{< my-img src="image/img205.jpg" width="400" >}}
+</center>
+
 <b>學習路線</b>
 {{< tabs "doctor" >}}
 

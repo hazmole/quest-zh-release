@@ -44,6 +44,7 @@ NPC 的「攻擊評級」代表著他在每次使用基本攻擊命中對手時�
 
 <div style="display:flex; align-items:start; gap:1em">
 <div style="flex:1; ">
+<center>{{< my-img src="image/img401.jpg" width="250" >}}</center>
 <h3>平民</h3>
 <div style="font-style: italic;">2 HP — 攻擊評級１</div>
 
@@ -54,6 +55,7 @@ NPC 的「攻擊評級」代表著他在每次使用基本攻擊命中對手時�
 大部分平民就像是電影中的臨時演員：他們是用來填補這個世界並讓其活起來的背景角色。
 </div>
 <div style="flex:1; ">
+<center>{{< my-img src="image/img402.jpg" width="250" >}}</center>
 <h3>爪牙</h3>
 <div style="font-style: italic;">4 HP — 攻擊評級２</div>
 
@@ -65,6 +67,7 @@ NPC 的「攻擊評級」代表著他在每次使用基本攻擊命中對手時�
 你可以考慮讓強大的爪牙擁有一到二個特性。
 </div>
 <div style="flex:1; ">
+<center>{{< my-img src="image/img403.jpg" width="250" >}}</center>
 <h3>頭目</h3>
 <div style="font-style: italic;">10 HP — 攻擊評級４</div>
 

@@ -74,3 +74,7 @@ title: "3.展現風采"
 - 腳步沉重
 - 無所畏懼
 {{< /columns >}}
+
+<center>
+{{< my-img src="image/img117.jpg" width="250" >}}
+</center>

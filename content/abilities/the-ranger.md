@@ -14,6 +14,10 @@ title: "遊俠"
 〈<a href="#追跡">追跡</a>〉,
 〈<a href="#急救藥物">急救藥物</a>〉
 
+<center>
+{{< my-img src="image/img203.jpg" width="400" >}}
+</center>
+
 <b>學習路線</b>
 {{< tabs "ranger" >}}
 

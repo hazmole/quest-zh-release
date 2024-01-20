@@ -80,8 +80,3 @@ enableRobotsTXT = false
   # (Optional, default true) Display a "Back to top" link in the site footer.
   geekdocBackToTop = true
 
-  # (Optional, default none) Adds a "Content licensed under <license>" line to the footer.
-  # Could be used if you want to define a default license for your content.
-  [params.geekdocContentLicense]
-    name = "CC BY-SA 4.0"
-    link = "https://creativecommons.org/licenses/by-sa/4.0/"

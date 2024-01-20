@@ -14,6 +14,10 @@ title: "法師"
 〈<a href="#舉重若輕">舉重若輕</a>〉,
 〈<a href="#魔寵">魔寵</a>〉
 
+<center>
+{{< my-img src="image/img208.jpg" width="400" >}}
+</center>
+
 <b>學習路線</b>
 {{< tabs "wizard" >}}
 

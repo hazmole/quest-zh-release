@@ -14,6 +14,10 @@ title: "間諜"
 〈<a href="#偽造身分">偽造身分</a>〉,
 〈<a href="#飄羽抓鉤">飄羽抓鉤</a>〉
 
+<center>
+{{< my-img src="image/img206.jpg" width="400" >}}
+</center>
+
 <b>學習路線</b>
 {{< tabs "spy" >}}
 

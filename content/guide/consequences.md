@@ -116,3 +116,7 @@ title: "行事結果"
 <center>即使放手提供玩家們擺脫險境的方法也沒有關係，<br/>
 特別是當這會讓遊戲變得更有趣時更是如此。</center>
 </div>
+
+<center>
+{{< my-img src="image/img400.jpg" width="400" >}}
+</center>
