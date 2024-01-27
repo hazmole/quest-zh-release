@@ -1,15 +1,15 @@
 ---
 geekdocBreadcrumb: false
 type: docs
-resources:
-  - name: index-1
-    src: "img001.jpg"
-    title: ""
 ---
 
 # 奇幻探索物語
 
-{{< img name="index-1" size="small" lazy=false >}}
+<center>
+{{< my-img src="image/img001.jpg" width="700" >}}
+</center>
+
+<br/>
 
 <center>
 歡迎，朋友。

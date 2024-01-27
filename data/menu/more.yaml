@@ -1,0 +1,16 @@
+---
+more:
+  - name: 官方網站
+    ref: "https://www.adventure.game"
+    external: true
+    icon: "gdoc_link"
+
+  - name: 核心牌組(列印)
+    ref: "https://drive.google.com/file/d/1t8w772zdz1Br4N5aabQJlhTD5MR7GzYF/view?usp=drive_link"
+    external: true
+    icon: "gdoc_link"
+
+  - name: 角色卡(列印)
+    ref: "https://drive.google.com/file/d/1QeKqOZ0LW0A_Wa9FVf6iM38Ubj25uUn7/view?usp=drive_link"
+    external: true
+    icon: "gdoc_link"
